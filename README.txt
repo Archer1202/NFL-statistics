@@ -4,8 +4,6 @@ Este proyecto consiste en el análisis de una base de datos histórica de la NFL
 
 El objetivo principal es analizar el comportamiento y evolución del rendimiento ofensivo y competitivo de los equipos a lo largo del tiempo mediante técnicas de análisis de datos.
 
-Se desarrolló un dashboard interactivo que permite analizar el desempeño de equipos de la NFL a lo largo del tiempo, identificando tendencias y consistencia.
-
 🧹 Limpieza y Preparación de Datos
 
 Antes del análisis, se realizó un proceso de depuración y transformación de datos que incluyó:
